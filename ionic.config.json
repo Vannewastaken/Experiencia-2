@@ -1,0 +1,7 @@
+{
+  "name": "MyAppAsistentesDuocUC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
